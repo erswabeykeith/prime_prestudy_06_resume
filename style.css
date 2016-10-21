@@ -1,0 +1,33 @@
+.page-title {
+  text-align: center;
+  font-family: Georgia serif;
+  font-weight: bold;
+}
+.contact-info {
+  text-align: center;
+}
+.page-description {
+  font-family: Georgia, serif;	
+  border: 4px solid #4ddbbe;
+  margin: 2px;
+  text-align: left;
+  padding: 30px;
+}
+.section {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.job {
+  font-weight: bold;
+}
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 25px auto;
+	text-align: left;
+	width: 80%;
+	background-image: url(asanoha-400px.png);
+	background-position: top left;
+	background-repeat: repeat;
+	opacity:0.75;
+}
